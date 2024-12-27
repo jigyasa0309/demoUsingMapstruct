@@ -1,0 +1,2 @@
+# demoUsingMapstruct
+demoUsingMapstruct
